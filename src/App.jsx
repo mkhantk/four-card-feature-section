@@ -24,7 +24,7 @@ function App() {
               <p>Monitors activity to identify project roadblocks</p>
             </div>
             
-            <img src="./public/assets/icon-supervisor.svg" alt="supervisor-icon" />
+            <img src="./assets/icon-supervisor.svg" alt="supervisor-icon" />
           </div>
           <div className='flex flex-col gap-5'>
             <div className='cards border-t-red-500'>
@@ -33,7 +33,7 @@ function App() {
                 <p>Scans our talent network to create the optimal team for your project</p>
               </div>
               
-              <img src="./public/assets/icon-team-builder.svg" alt="team-builder" />
+              <img src="./assets/icon-team-builder.svg" alt="team-builder" />
             </div>
             <div className='cards border-t-orange-500'>
               <div>
@@ -41,7 +41,7 @@ function App() {
                 <p>Regularly evaluates our talent to ensure quality</p>
               </div>
               
-              <img src="./public/assets/icon-karma.svg" alt="karma-icon" />
+              <img src="./assets/icon-karma.svg" alt="karma-icon" />
             </div>
           </div>
           
@@ -51,7 +51,7 @@ function App() {
               <p> Uses data from past projects to provide better delivery estimates</p>
             </div>
             
-            <img src="./public/assets/icon-calculator.svg" alt="calculator-icon" />
+            <img src="./assets/icon-calculator.svg" alt="calculator-icon" />
           </div>   
               
     
