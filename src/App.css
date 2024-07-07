@@ -1,0 +1,19 @@
+.cards {
+  @apply w-80 h-60 rounded-xl border-t-4 shadow-lg p-6 flex flex-col justify-between
+}
+
+.cards img {
+  @apply ml-auto items-end
+}
+
+.cards h3 {
+  @apply text-lg font-bold text-veryDarkBlue m-2
+}
+
+.cards p {
+  @apply text-sm m-2
+}
+
+p {
+  @apply text-grayishBlue
+}
